@@ -1,0 +1,2208 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 2141px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.vector1 {
+  position: absolute;
+  left: 41px;
+  top: -717px;
+  width: 1712.1634px;
+  height: 1380.5541px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector {
+  position: absolute;
+  left: -0.8409%;
+  right: -0.9091%;
+  top: -0.2249%;
+  bottom: 73.7973%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group {
+  position: absolute;
+  left: -196.3637px;
+  top: 301.3932px;
+  width: 1858.3527px;
+  height: 282.3627px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle {
+  position: absolute;
+  left: -16.4394%;
+  right: -18.2576%;
+  top: 12.1896%;
+  bottom: 70.8168%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.group2 {
+  position: absolute;
+  left: -196.3637px;
+  top: 301.3932px;
+  width: 1858.3527px;
+  height: 282.3627px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 45.6381%;
+  right: 14.427%;
+  top: 17.9918%;
+  bottom: 76.6142%;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.vector3 {
+  position: absolute;
+  left: 43.1219%;
+  right: 16.6546%;
+  top: 17.0532%;
+  bottom: 74.7078%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 4.2723%;
+  right: 66.1019%;
+  top: 14.2427%;
+  bottom: 81.885%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: 62.9223%;
+  right: 20.1839%;
+  top: 15.0759%;
+  bottom: 82.7161%;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.vector6 {
+  position: absolute;
+  left: 2.5723%;
+  right: 67.6658%;
+  top: 20.7816%;
+  bottom: 73.5953%;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector7 {
+  position: absolute;
+  left: 58.6967%;
+  right: 11.5377%;
+  top: 13.543%;
+  bottom: 81.0133%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.vector8 {
+  position: absolute;
+  left: 55.5083%;
+  right: 11.6137%;
+  top: 12.6818%;
+  bottom: 81.355%;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.vector9 {
+  position: absolute;
+  left: 58.2034%;
+  right: 8.9178%;
+  top: 13.198%;
+  bottom: 80.8335%;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.vector10 {
+  position: absolute;
+  left: 60.3973%;
+  right: 16.496%;
+  top: 17.6114%;
+  bottom: 77.2383%;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.vector11 {
+  position: absolute;
+  left: 11.4329%;
+  right: 67.8086%;
+  top: 15.4478%;
+  bottom: 80.5592%;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.vector12 {
+  position: absolute;
+  left: 21.1298%;
+  right: 58.054%;
+  top: 14.7103%;
+  bottom: 81.2825%;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.vector13 {
+  position: absolute;
+  left: 0.576%;
+  right: 62.8809%;
+  top: 20.8438%;
+  bottom: 72.7528%;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.vector14 {
+  position: absolute;
+  left: 34.8439%;
+  right: 40.9277%;
+  top: 15.9989%;
+  bottom: 77.8523%;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.vector15 {
+  position: absolute;
+  left: -8.2221%;
+  right: 75.9025%;
+  top: 17.8204%;
+  bottom: 75.924%;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.vector16 {
+  position: absolute;
+  left: 74.1555%;
+  right: -7.9818%;
+  top: 17.139%;
+  bottom: 75.0506%;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.vector17 {
+  position: absolute;
+  left: 44.5311%;
+  right: -1.7023%;
+  top: 9.7734%;
+  bottom: 78.9732%;
+  overflow: visible;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.vector18 {
+  position: absolute;
+  left: 35.1129%;
+  right: 8.4856%;
+  top: 17.5665%;
+  bottom: 74.3305%;
+  overflow: visible;
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
+.vector19 {
+  position: absolute;
+  left: -14.6799%;
+  right: 46.3951%;
+  top: 8.939%;
+  bottom: 73.4494%;
+  overflow: visible;
+}
+.icon22 {
+  width: 100%;
+  height: 100%;
+}
+.group3 {
+  position: absolute;
+  left: 277.7236px;
+  top: 279.8682px;
+  width: 938.2908px;
+  height: 232.4392px;
+  overflow: visible;
+}
+.icon23 {
+  width: 100%;
+  height: 100%;
+}
+.group4 {
+  position: absolute;
+  left: 223.6551px;
+  top: 293.0557px;
+  width: 949.461px;
+  height: 283.3418px;
+  overflow: visible;
+}
+.icon24 {
+  width: 100%;
+  height: 100%;
+}
+.vector20 {
+  position: absolute;
+  left: -0.6818%;
+  right: -0.6818%;
+  top: -0.2249%;
+  bottom: 73.7973%;
+  overflow: visible;
+}
+.icon25 {
+  width: 100%;
+  height: 100%;
+}
+.group5 {
+  position: absolute;
+  left: 252.3597px;
+  top: 66.1871px;
+  width: 946.353px;
+  height: 283.877px;
+  overflow: visible;
+}
+.icon26 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 1199px;
+  border-radius: 45px;
+  background-image: linear-gradient(180deg, #c5203f00 9%, #c5203f00 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.vector110 {
+  position: absolute;
+  left: 50%;
+  top: 99px;
+  width: 1440px;
+  max-width: 100%;
+  height: 0.25px;
+  max-height: 100%;
+  overflow: visible;
+  filter: drop-shadow(0px 2px 4px #00000040);
+  transform: translateX(-50%);
+}
+.icon27 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse9 {
+  position: absolute;
+  left: 693px;
+  top: 377px;
+  width: 135.2197px;
+  height: 135.2197px;
+  overflow: visible;
+}
+.icon28 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse92 {
+  position: absolute;
+  left: 523px;
+  top: 167px;
+  width: 117.1329px;
+  height: 117.1329px;
+  overflow: visible;
+}
+.icon29 {
+  width: 100%;
+  height: 100%;
+}
+.imageRNAFUZnHTransformed11 {
+  transform-origin: top left;
+  position: absolute;
+  left: 920.9075px;
+  top: 174.7514px;
+  width: 397.9075px;
+  height: 302.3064px;
+  background-image:/* webpackIgnore: true */ url('assets/imageRNAFUZnHTransformed11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 4px 4px 20px 0px #00000040;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.welcomeKish {
+  position: absolute;
+  left: 120px;
+  top: 221px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 40px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #203662;
+  font-size: 40px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #000;
+  font-size: 40px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #c5203f;
+  font-size: 40px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.gILD_BIG {
+  position: absolute;
+  left: 120px;
+  top: 29px;
+  width: 148px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/gILD_BIG.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vector22 {
+  position: absolute;
+  left: 278px;
+  top: 38px;
+  width: 1.5px;
+  max-width: 100%;
+  height: 21px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon30 {
+  width: 100%;
+  height: 100%;
+}
+.artemis {
+  color: #000;
+  font-size: 20px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 288px;
+  top: 36px;
+  width: 75px;
+  height: 25px;
+  flex-direction: column;
+}
+.studyPlanning {
+  color: #000;
+  font-size: 18px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 577px;
+  top: 38px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector21 {
+  position: absolute;
+  left: 48.8194%;
+  right: 50.4861%;
+  top: 2.1485%;
+  bottom: 97.5712%;
+  overflow: visible;
+}
+.icon31 {
+  width: 100%;
+  height: 100%;
+}
+.studyMonitoring {
+  color: #000;
+  font-size: 18px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 764px;
+  top: 38px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector23 {
+  position: absolute;
+  left: 62.9167%;
+  right: 36.3889%;
+  top: 2.1485%;
+  bottom: 97.5712%;
+  overflow: visible;
+}
+.icon32 {
+  width: 100%;
+  height: 100%;
+}
+.resources {
+  color: #000;
+  font-size: 18px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 967px;
+  top: 38px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector24 {
+  position: absolute;
+  left: 73.3333%;
+  right: 25.9722%;
+  top: 2.1485%;
+  bottom: 97.5712%;
+  overflow: visible;
+}
+.icon33 {
+  width: 100%;
+  height: 100%;
+}
+.search {
+  position: absolute;
+  left: 83.2639%;
+  right: 14.6528%;
+  top: 1.6348%;
+  bottom: 97.0107%;
+  overflow: visible;
+}
+.icon34 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse10 {
+  position: absolute;
+  left: 1274px;
+  top: 26px;
+  width: 46px;
+  height: 46px;
+  overflow: visible;
+}
+.icon35 {
+  width: 100%;
+  height: 100%;
+}
+.kJ {
+  color: #203662;
+  font-size: 20px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1285px;
+  top: 37px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.clinicalTrialsAreResearchStudi {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Light, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 272px;
+  width: 356px;
+  height: min-content;
+  flex-direction: column;
+}
+.vector25 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 26.2027%;
+  bottom: 46.7071%;
+  overflow: visible;
+}
+.icon36 {
+  width: 100%;
+  height: 100%;
+}
+.clipPathGroup {
+  position: absolute;
+  left: 0;
+  top: 561px;
+  width: 1440px;
+  height: 580px;
+  overflow: visible;
+}
+.icon37 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle2 {
+  position: absolute;
+  left: 6.1464%;
+  right: 66.9244%;
+  top: 30.2271%;
+  bottom: 50.8006%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vector26 {
+  position: absolute;
+  left: 7.6447%;
+  right: 68.4216%;
+  top: 31.2849%;
+  bottom: 51.8575%;
+  overflow: visible;
+}
+.icon38 {
+  width: 100%;
+  height: 100%;
+}
+.vector27 {
+  position: absolute;
+  left: 7.2287%;
+  right: 66.1544%;
+  top: 29.6878%;
+  bottom: 51.5647%;
+  overflow: visible;
+}
+.icon39 {
+  width: 100%;
+  height: 100%;
+}
+.group6 {
+  position: absolute;
+  left: 170.4915px;
+  top: 730.1077px;
+  width: 254.79px;
+  height: 225.3447px;
+  overflow: visible;
+}
+.icon40 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle22 {
+  position: absolute;
+  left: calc(50% - -0.5px);
+  top: 614px;
+  width: 1309px;
+  height: 472px;
+  border-radius: 15px;
+  background-color: #fffc;
+  transform: translateX(-50%);
+}
+.group540 {
+  position: absolute;
+  left: 138px;
+  top: 736px;
+  width: 560px;
+  height: 45px;
+  overflow: visible;
+}
+.icon41 {
+  width: 100%;
+  height: 100%;
+}
+.search2 {
+  color: #aeaeae;
+  font-size: 15px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 749px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle4 {
+  position: absolute;
+  left: 138px;
+  top: 803px;
+  width: 802px;
+  height: 38px;
+  outline: solid 0.3px #676767;
+  outline-offset: 0px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+.whatAreTheDifferentSectionsOnH {
+  color: #000;
+  font-size: 17px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.25%;
+  right: 62.3611%;
+  top: 37.9262%;
+  bottom: 61.0929%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector28 {
+  position: absolute;
+  left: 63.0903%;
+  right: 36.0764%;
+  top: 38.2532%;
+  bottom: 61.4199%;
+  overflow: visible;
+}
+.icon42 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle5 {
+  position: absolute;
+  left: 138px;
+  top: 848px;
+  width: 802px;
+  height: 38px;
+  outline: solid 0.3px #676767;
+  outline-offset: 0px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+.whatDoesTheScenarioTableRepres {
+  color: #000;
+  font-size: 17px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 857px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector29 {
+  position: absolute;
+  left: 63.0903%;
+  right: 36.0764%;
+  top: 40.355%;
+  bottom: 59.3181%;
+  overflow: visible;
+}
+.icon43 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle6 {
+  position: absolute;
+  left: 138px;
+  top: 893px;
+  width: 802px;
+  height: 38px;
+  outline: solid 0.3px #676767;
+  outline-offset: 0px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+.whatAreTheIconsAboveTheScenari {
+  color: #000;
+  font-size: 17px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 902px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector30 {
+  position: absolute;
+  left: 63.0903%;
+  right: 36.0764%;
+  top: 42.4568%;
+  bottom: 57.2163%;
+  overflow: visible;
+}
+.icon44 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle7 {
+  position: absolute;
+  left: 138px;
+  top: 938px;
+  width: 802px;
+  height: 38px;
+  outline: solid 0.3px #676767;
+  outline-offset: 0px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+.howToGetStartedWithTheArtemisT {
+  color: #000;
+  font-size: 17px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 947px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector31 {
+  position: absolute;
+  left: 63.0903%;
+  right: 36.0764%;
+  top: 44.5586%;
+  bottom: 55.1144%;
+  overflow: visible;
+}
+.icon45 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle3 {
+  position: absolute;
+  left: 138px;
+  top: 982.9999px;
+  width: 802px;
+  height: 38px;
+  outline: solid 0.3px #676767;
+  outline-offset: 0px;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+.whatAreDifferentScenarioInputs {
+  color: #000;
+  font-size: 17px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 991px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector32 {
+  position: absolute;
+  left: 63.0903%;
+  right: 36.0764%;
+  top: 46.6604%;
+  bottom: 53.0126%;
+  overflow: visible;
+}
+.icon46 {
+  width: 100%;
+  height: 100%;
+}
+.fREQUENTLYASKEDQUESTIONS {
+  position: absolute;
+  left: calc(50% - 332.5px);
+  top: 666px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.labelWrapper2 {
+  font-size: 32px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label4 {
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #c5203f;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle24 {
+  position: absolute;
+  left: 918px;
+  top: 175px;
+  width: 389px;
+  height: 751px;
+  border-radius: 0 20px 204.5px 204.5px;
+  background-image: linear-gradient(180deg, #fefefe87 0%, #c5203f69 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.rectangle25 {
+  position: absolute;
+  left: 905px;
+  top: 163px;
+  width: 415px;
+  height: 27px;
+  border-radius: 5px;
+  background-color: #203662;
+}
+.qUICKLINKS {
+  position: absolute;
+  left: calc(50% - -314px);
+  top: 208px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.labelWrapper3 {
+  font-size: 32px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label7 {
+  color: #c5203f;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.studyMonitoring2 {
+  color: #203662;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 378px;
+  width: 212px;
+  height: min-content;
+  flex-direction: column;
+}
+.clinicalTrialsAreResearchStudi2 {
+  color: #000;
+  font-size: 15px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 407px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle9 {
+  position: absolute;
+  left: 936px;
+  top: 382px;
+  width: 84.0606px;
+  height: 75px;
+  outline: solid 0.5px #c5203f;
+  outline-offset: 0px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.studyMonitoring1 {
+  position: absolute;
+  left: 943.3793px;
+  top: 385.8501px;
+  width: 69.2014px;
+  height: 67.5032px;
+  background-image:/* webpackIgnore: true */ url('assets/studyMonitoring1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.studyPlanning2 {
+  color: #203662;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 263px;
+  width: 212px;
+  height: min-content;
+  flex-direction: column;
+}
+.clinicalTrialsAreResearchStudi3 {
+  color: #000;
+  font-size: 15px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 292px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle92 {
+  position: absolute;
+  left: 936px;
+  top: 268px;
+  width: 83.069px;
+  height: 73px;
+  outline: solid 0.5px #c5203f;
+  outline-offset: 0px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.studyPlanning1 {
+  position: absolute;
+  left: 943.5517px;
+  top: 274.2931px;
+  width: 68.3851px;
+  height: 60.8333px;
+  background-image:/* webpackIgnore: true */ url('assets/studyPlanning1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.artemisGuide {
+  color: #203662;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 493px;
+  width: 212px;
+  height: min-content;
+  flex-direction: column;
+}
+.clinicalTrialsAreResearchStudi4 {
+  color: #000;
+  font-size: 15px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 522px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle93 {
+  position: absolute;
+  left: 936px;
+  top: 497px;
+  width: 84.0606px;
+  height: 75px;
+  outline: solid 0.5px #c5203f;
+  outline-offset: 0px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.gileadHome {
+  color: #203662;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 608px;
+  width: 212px;
+  height: min-content;
+  flex-direction: column;
+}
+.clinicalTrialsAreResearchStudi5 {
+  color: #000;
+  font-size: 15px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 637px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle94 {
+  position: absolute;
+  left: 936px;
+  top: 612px;
+  width: 84.0606px;
+  height: 75px;
+  outline: solid 0.5px #c5203f;
+  outline-offset: 0px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.newFeatures {
+  color: #203662;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 723px;
+  width: 212px;
+  height: min-content;
+  flex-direction: column;
+}
+.clinicalTrialsAreResearchStudi6 {
+  color: #000;
+  font-size: 15px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1030px;
+  top: 752px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle95 {
+  position: absolute;
+  left: 936px;
+  top: 727px;
+  width: 84.0606px;
+  height: 75px;
+  outline: solid 0.5px #c5203f;
+  outline-offset: 0px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.imageYblso7ESrTransformed1 {
+  position: absolute;
+  left: 0;
+  top: 1141px;
+  width: 1440px;
+  height: 519px;
+  background-image:/* webpackIgnore: true */ url('assets/imageYblso7ESrTransformed1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tEAMMEMBERS {
+  position: absolute;
+  left: calc(50% - 38px);
+  top: 1192px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.labelWrapper4 {
+  font-size: 40px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label8 {
+  color: #000;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label9 {
+  color: #c5203f;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.johnAustin {
+  color: #c5203f;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 236px;
+  top: 1315px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lorenIpsumLorenIpsumLorenIpsum {
+  position: absolute;
+  left: 236px;
+  top: 1364px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.vector152 {
+  position: absolute;
+  left: 236px;
+  top: 1352px;
+  width: 100px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon47 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse15 {
+  position: absolute;
+  left: 114px;
+  top: 1311px;
+  width: 56px;
+  height: 91px;
+  overflow: visible;
+}
+.icon48 {
+  width: 100%;
+  height: 100%;
+}
+.microsoftTeamsImage61 {
+  position: absolute;
+  left: 117px;
+  top: 1314px;
+  width: 85px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/microsoftTeamsImage61.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 1px;
+  mask-position: 1px 1px;
+  -webkit-mask-size: 84px 84px;
+  mask-size: 84px 84px;
+}
+.johnAustin2 {
+  color: #c5203f;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 687px;
+  top: 1315px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lorenIpsumLorenIpsumLorenIpsum2 {
+  position: absolute;
+  left: 687px;
+  top: 1364px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.vector153 {
+  position: absolute;
+  left: 687px;
+  top: 1352px;
+  width: 100px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon49 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse152 {
+  position: absolute;
+  left: 565px;
+  top: 1311px;
+  width: 56px;
+  height: 91px;
+  overflow: visible;
+}
+.icon50 {
+  width: 100%;
+  height: 100%;
+}
+.microsoftTeamsImage612 {
+  position: absolute;
+  left: 568px;
+  top: 1314px;
+  width: 85px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/microsoftTeamsImage612.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 1px;
+  mask-position: 1px 1px;
+  -webkit-mask-size: 84px 84px;
+  mask-size: 84px 84px;
+}
+.johnAustin3 {
+  color: #c5203f;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1139px;
+  top: 1315px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lorenIpsumLorenIpsumLorenIpsum3 {
+  position: absolute;
+  left: 1139px;
+  top: 1364px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.vector154 {
+  position: absolute;
+  left: 1139px;
+  top: 1352px;
+  width: 100px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon51 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse153 {
+  position: absolute;
+  left: 1017px;
+  top: 1311px;
+  width: 56px;
+  height: 91px;
+  overflow: visible;
+}
+.icon52 {
+  width: 100%;
+  height: 100%;
+}
+.microsoftTeamsImage613 {
+  position: absolute;
+  left: 1020px;
+  top: 1314px;
+  width: 85px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/microsoftTeamsImage613.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 1px;
+  mask-position: 1px 1px;
+  -webkit-mask-size: 84px 84px;
+  mask-size: 84px 84px;
+}
+.johnAustin4 {
+  color: #c5203f;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 236px;
+  top: 1476px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lorenIpsumLorenIpsumLorenIpsum4 {
+  position: absolute;
+  left: 236px;
+  top: 1525px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.vector155 {
+  position: absolute;
+  left: 236px;
+  top: 1513px;
+  width: 100px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon53 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse154 {
+  position: absolute;
+  left: 114px;
+  top: 1472px;
+  width: 56px;
+  height: 91px;
+  overflow: visible;
+}
+.icon54 {
+  width: 100%;
+  height: 100%;
+}
+.microsoftTeamsImage614 {
+  position: absolute;
+  left: 117px;
+  top: 1475px;
+  width: 85px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/microsoftTeamsImage614.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup4.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup4.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 1px;
+  mask-position: 1px 1px;
+  -webkit-mask-size: 84px 84px;
+  mask-size: 84px 84px;
+}
+.johnAustin5 {
+  color: #c5203f;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 688px;
+  top: 1476px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lorenIpsumLorenIpsumLorenIpsum5 {
+  position: absolute;
+  left: 688px;
+  top: 1525px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.vector156 {
+  position: absolute;
+  left: 688px;
+  top: 1513px;
+  width: 100px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon55 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse155 {
+  position: absolute;
+  left: 566px;
+  top: 1472px;
+  width: 56px;
+  height: 91px;
+  overflow: visible;
+}
+.icon56 {
+  width: 100%;
+  height: 100%;
+}
+.microsoftTeamsImage615 {
+  position: absolute;
+  left: 569px;
+  top: 1475px;
+  width: 85px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/microsoftTeamsImage615.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup5.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup5.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 1px;
+  mask-position: 1px 1px;
+  -webkit-mask-size: 84px 84px;
+  mask-size: 84px 84px;
+}
+.johnAustin6 {
+  color: #c5203f;
+  font-size: 24px;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1140px;
+  top: 1476px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lorenIpsumLorenIpsumLorenIpsum6 {
+  position: absolute;
+  left: 1140px;
+  top: 1525px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: FONTSPRING DEMO - Proxima Nova Medium, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.vector157 {
+  position: absolute;
+  left: 1140px;
+  top: 1513px;
+  width: 100px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon57 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse156 {
+  position: absolute;
+  left: 1018px;
+  top: 1472px;
+  width: 56px;
+  height: 91px;
+  overflow: visible;
+}
+.icon58 {
+  width: 100%;
+  height: 100%;
+}
+.microsoftTeamsImage616 {
+  position: absolute;
+  left: 1021px;
+  top: 1475px;
+  width: 85px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/microsoftTeamsImage616.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup6.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup6.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 1px;
+  mask-position: 1px 1px;
+  -webkit-mask-size: 84px 84px;
+  mask-size: 84px 84px;
+}
+.rectangle35 {
+  position: absolute;
+  left: 0.0214px;
+  top: 1660px;
+  width: 1440px;
+  height: 482px;
+  background-color: #203662;
+}
+.studyPlanning3 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 1717px;
+  width: 220px;
+  height: 35px;
+  flex-direction: column;
+}
+.home {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 1772px;
+  width: 140px;
+  height: 25px;
+  flex-direction: column;
+}
+.scenarios {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 1817px;
+  width: 153px;
+  height: 24px;
+  flex-direction: column;
+}
+.output {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 1861px;
+  width: 146px;
+  height: 25px;
+  flex-direction: column;
+}
+.comparison {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 1906px;
+  width: 153px;
+  height: 25px;
+  flex-direction: column;
+}
+.studyMonitoring3 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 1717px;
+  width: 250px;
+  height: 35px;
+  flex-direction: column;
+}
+.home2 {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 1772px;
+  width: 105px;
+  height: 25px;
+  flex-direction: column;
+}
+.scenarios2 {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 1817px;
+  width: 135px;
+  height: 24px;
+  flex-direction: column;
+}
+.output2 {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 1861px;
+  width: 105px;
+  height: 25px;
+  flex-direction: column;
+}
+.comparison2 {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 594px;
+  top: 1906px;
+  width: 117px;
+  height: 25px;
+  flex-direction: column;
+}
+.resources2 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1102px;
+  top: 1718px;
+  width: 150px;
+  height: 35px;
+  flex-direction: column;
+}
+.contact {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1099px;
+  top: 1881px;
+  width: 114px;
+  height: 35px;
+  flex-direction: column;
+}
+.fAQ {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1099px;
+  top: 1773px;
+  width: 85px;
+  height: 25px;
+  flex-direction: column;
+}
+.artemisGuide2 {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1099px;
+  top: 1818px;
+  width: 138px;
+  height: 25px;
+  flex-direction: column;
+}
+.group50 {
+  position: absolute;
+  left: 1099.0214px;
+  top: 1936px;
+  width: 34.0691px;
+  height: 24.3001px;
+  overflow: visible;
+}
+.icon59 {
+  width: 100%;
+  height: 100%;
+}
+.infoGileadCom {
+  color: #fff;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1161px;
+  top: 1934px;
+  width: 159px;
+  height: 25px;
+  flex-direction: column;
+}
+.vector52 {
+  position: absolute;
+  left: calc(50% - -0.0214px);
+  top: 2012px;
+  width: 1200px;
+  max-width: 100%;
+  height: 5px;
+  max-height: 100%;
+  overflow: visible;
+  transform: translateX(-50%);
+}
+.icon60 {
+  width: 100%;
+  height: 100%;
+}
+.copyright19962023GileadScience {
+  color: #d7d7dc;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.5px);
+  top: 2044px;
+  width: 607px;
+  height: 25px;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.termsOfUsePrivacyPolicyCookies {
+  color: #d7d7dc;
+  font-size: 22px;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 2073px;
+  width: 454px;
+  height: 25px;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.group7 {
+  position: absolute;
+  left: -507.4469px;
+  top: 1629.9833px;
+  width: 2464.9258px;
+  height: 372.4573px;
+  overflow: visible;
+}
+.icon61 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle8 {
+  transform-origin: top left;
+  position: absolute;
+  left: 139.654%;
+  right: -218.3165%;
+  top: 96.0182%;
+  bottom: -18.434%;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(-1, 0, 0, -1, 0, 0);
+}
+.group8 {
+  position: absolute;
+  left: -507.4469px;
+  top: 1629.9833px;
+  width: 2464.9258px;
+  height: 372.4573px;
+  overflow: visible;
+}
+.icon62 {
+  width: 100%;
+  height: 100%;
+}
+.vector33 {
+  position: absolute;
+  left: 4.3461%;
+  right: 42.6859%;
+  top: 81.2495%;
+  bottom: 11.6354%;
+  overflow: visible;
+}
+.icon63 {
+  width: 100%;
+  height: 100%;
+}
+.vector34 {
+  position: absolute;
+  left: 7.3006%;
+  right: 39.3484%;
+  top: 78.7152%;
+  bottom: 10.3972%;
+  overflow: visible;
+}
+.icon64 {
+  width: 100%;
+  height: 100%;
+}
+.vector35 {
+  position: absolute;
+  left: 72.8876%;
+  right: -12.1819%;
+  top: 88.2022%;
+  bottom: 6.6901%;
+  overflow: visible;
+}
+.icon65 {
+  width: 100%;
+  height: 100%;
+}
+.vector36 {
+  position: absolute;
+  left: 11.9811%;
+  right: 65.6116%;
+  top: 89.2985%;
+  bottom: 7.789%;
+  overflow: visible;
+}
+.icon66 {
+  width: 100%;
+  height: 100%;
+}
+.vector37 {
+  position: absolute;
+  left: 74.9642%;
+  right: -14.4368%;
+  top: 77.2405%;
+  bottom: 15.3153%;
+  overflow: visible;
+}
+.icon67 {
+  width: 100%;
+  height: 100%;
+}
+.vector38 {
+  position: absolute;
+  left: 0.5189%;
+  right: 60.0068%;
+  top: 87.0519%;
+  bottom: 5.767%;
+  overflow: visible;
+}
+.icon68 {
+  width: 100%;
+  height: 100%;
+}
+.vector39 {
+  position: absolute;
+  left: 0.6205%;
+  right: 55.7776%;
+  top: 87.5026%;
+  bottom: 4.6311%;
+  overflow: visible;
+}
+.icon69 {
+  width: 100%;
+  height: 100%;
+}
+.vector40 {
+  position: absolute;
+  left: -2.9595%;
+  right: 59.3524%;
+  top: 86.7875%;
+  bottom: 5.312%;
+  overflow: visible;
+}
+.icon70 {
+  width: 100%;
+  height: 100%;
+}
+.vector41 {
+  position: absolute;
+  left: 7.0959%;
+  right: 62.2626%;
+  top: 82.0403%;
+  bottom: 11.1336%;
+  overflow: visible;
+}
+.icon71 {
+  width: 100%;
+  height: 100%;
+}
+.vector42 {
+  position: absolute;
+  left: 75.1523%;
+  right: -2.6841%;
+  top: 86.4532%;
+  bottom: 8.2796%;
+  overflow: visible;
+}
+.icon72 {
+  width: 100%;
+  height: 100%;
+}
+.vector43 {
+  position: absolute;
+  left: 62.2124%;
+  right: 10.1779%;
+  top: 87.3953%;
+  bottom: 7.3068%;
+  overflow: visible;
+}
+.icon73 {
+  width: 100%;
+  height: 100%;
+}
+.vector44 {
+  position: absolute;
+  left: 68.6146%;
+  right: -17.0847%;
+  top: 76.1422%;
+  bottom: 15.3974%;
+  overflow: visible;
+}
+.icon74 {
+  width: 100%;
+  height: 100%;
+}
+.vector45 {
+  position: absolute;
+  left: 39.4967%;
+  right: 28.3684%;
+  top: 82.8827%;
+  bottom: 9.0065%;
+  overflow: visible;
+}
+.icon75 {
+  width: 100%;
+  height: 100%;
+}
+.vector46 {
+  position: absolute;
+  left: 85.8875%;
+  right: -28.7545%;
+  top: 80.3391%;
+  bottom: 11.4092%;
+  overflow: visible;
+}
+.icon76 {
+  width: 100%;
+  height: 100%;
+}
+.vector47 {
+  position: absolute;
+  left: -25.3704%;
+  right: 80.5114%;
+  top: 79.1867%;
+  bottom: 10.5104%;
+  overflow: visible;
+}
+.icon77 {
+  width: 100%;
+  height: 100%;
+}
+.vector48 {
+  position: absolute;
+  left: -3.5363%;
+  right: 28.7251%;
+  top: 78.2372%;
+  bottom: 11.0743%;
+  overflow: visible;
+}
+.icon78 {
+  width: 100%;
+  height: 100%;
+}
+.group9 {
+  position: absolute;
+  left: 84.0954px;
+  top: 1724.2291px;
+  width: 1244.5524px;
+  height: 306.6044px;
+  overflow: visible;
+}
+.icon79 {
+  width: 100%;
+  height: 100%;
+}
+.vector49 {
+  position: absolute;
+  left: -15.696%;
+  right: -18.7531%;
+  top: 77.5339%;
+  bottom: -12.3938%;
+  overflow: visible;
+}
+.icon80 {
+  width: 100%;
+  height: 100%;
+}
+.group10 {
+  position: absolute;
+  left: 107.0444px;
+  top: 1938.2397px;
+  width: 1255.246px;
+  height: 374.4547px;
+  overflow: visible;
+}
+.icon81 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle70 {
+  position: absolute;
+  left: calc(50% - 38px);
+  top: 1244px;
+  width: 60px;
+  height: 3px;
+  border-radius: 5px;
+  background-color: #c5203f;
+  transform: translateX(-50%);
+}
+.rectangle71 {
+  position: absolute;
+  left: calc(50% - 550px);
+  top: 708px;
+  width: 60px;
+  height: 3px;
+  border-radius: 5px;
+  background-color: #c5203f;
+  transform: translateX(-50%);
+}
